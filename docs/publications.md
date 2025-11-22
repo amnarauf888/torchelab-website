@@ -1,1 +1,5 @@
-# Publications ## 2025 1. **Author, A., Author, B., & [PI Name].** (2025). Title of paper. *Journal Name*, 10(2), 123-145. [DOI](https://doi.org/xxx) | [PDF](link) 2. **[PI Name] & Author, C.** (2025). Another paper title. *Journal Name*, 15(3), 200-220. ## 2024 1. **Author, D., [PI Name], et al.** (2024). Paper title. *Conference Proceedings*, 45-60. --- ## In Press / Under Review - **Author, E. & [PI Name].** (under review). Manuscript title. *Journal*. --- ## Google Scholar For a complete list, see our [Google Scholar profile](https://scholar.google.com).
+Publications 
+
+Recent publication in JAMA Network Open on racial disparities in mental health medication use among cancer survivors
+Recent publication in JAMA Oncology on access to dental care and advocacy for change in Medicaid policy
+Recent publication in JAMA Otolaryngology on distress management in HNC
